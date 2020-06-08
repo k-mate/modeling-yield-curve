@@ -3,6 +3,6 @@
 
 # charts for bid and ask 
 
-![Plot 1]include("charts/plot1.jpeg")
+![Plot 1]include(charts/plot1.jpeg)
 
 
