@@ -1,5 +1,5 @@
 # modeling yield curve
-R codes for project deio in shareable version control system
+R codes for project on modeling yield curve in shareable version control system
 
 ## objective
 
