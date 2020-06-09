@@ -1,4 +1,4 @@
-# project-deio
+# modeling yield curve
 R codes for project deio in shareable version control system
 
 ## objective
@@ -8,7 +8,7 @@ R codes for project deio in shareable version control system
 ## Data
 
 - Data is not shared 
-- Has to installed manually on computer to run the R codes 
+- Has to be installed manually on computer to run the R codes 
 - Put required data in a folder called "/dataset"
 
 ## Files
